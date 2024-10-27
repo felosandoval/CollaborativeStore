@@ -1,0 +1,30 @@
+.sidebar {
+    border: 1px solid #ccc; /* Añade un contorno de 1 píxel con color gris claro */
+    border-radius: 5px; /* Añade bordes redondeados */
+    padding: 10px; /* Añade relleno para separar el contenido del borde */
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar a {
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    color: white; /* Cambiado a blanco para mejorar contraste con fondo rojo */
+    background-color: red; /* Cambiado a rojo como color de fondo del botón */
+    padding: 8px 12px; /* Añade relleno interno para dar apariencia de botón */
+    border: 1px solid #ccc; /* Añade un contorno a los enlaces */
+    border-radius: 17px; /* Añade bordes redondeados a los enlaces */
+    transition: background-color 0.3s ease; /* Añade una transición suave al color de fondo */
+  }
+  
+  .sidebar a:hover {
+    background-color: #d60000; /* Cambia el color de fondo al pasar el mouse sobre el enlace */
+  }
