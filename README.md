@@ -1,11 +1,5 @@
 # Tienda Colaborativa
 
-Integrantes:
-* Felipe Sandoval
-* Lucas Bernard
-* Matías Málaga
-* Matías Palma
-
 ## Wiki
 
 Puede acceder a la Wiki mediante el siguiente [enlace](https://gitlab.com/felosandoval/inf225-grupo06-2023-2/-/wikis/(0)-WIKI)
